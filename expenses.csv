@@ -1,0 +1,281 @@
+ID,Title,Amount,Category,Created_At
+5,Biscuits,10,Snacks,10/23/2025 2:54
+6,Maggie,20,Food,10/23/2025 2:54
+8,Maggie,50,Food,10/23/2025 3:03
+9,Bulb,70,Electric,10/23/2025 3:04
+10,Namkeen,15,Snacks,10/23/2025 3:05
+11,Facewash,120,Beauty,10/23/2025 3:05
+12,Chips,10,Snacks,10/23/2025 3:06
+13,Brownie,50,Food,3/2/2022 10:11
+14,To lended people,300,Other,3/2/2022 10:11
+15,Dinner,78,Food,3/1/2022 19:50
+16,Metro,30,Transportation,3/1/2022 18:56
+17,Snacks,67,Food,3/1/2022 18:22
+18,From vicky,100,Other,3/1/2022 18:22
+19,From dad,500,Other,3/1/2022 18:21
+20,Pizza,339.15,Food,2/28/2022 11:56
+21,From kumara,200,Other,2/28/2022 11:45
+22,Lunch,243,Food,2/27/2022 15:29
+23,Lunch,25,Food,2/26/2022 20:16
+24,From dad,1500,Other,2/26/2022 17:37
+25,To karthi,100,Other,2/26/2022 17:37
+26,Netflix,1700,Social Life,2/26/2022 16:01
+27,Snacks,40,Food,2/26/2022 14:07
+28,Tea lights,84,Food,2/26/2022 1:39
+29,Breakfast,33,Food,2/25/2022 12:08
+30,Surf,303,Household,2/24/2022 22:32
+31,Creamstone,289,Food,2/24/2022 22:21
+32,Tamen,324.7,Food,2/24/2022 19:15
+33,Hoodie for gobi,399,Apparel,2/23/2022 17:35
+34,Eggs,83,Food,2/23/2022 16:06
+35,Earphone,399,Apparel,2/23/2022 12:38
+36,Auto to laxmi mills,120,Transportation,2/22/2022 6:33
+37,It better be worth it,1300,Transportation,2/21/2022 22:15
+38,Travel to koyambedu,138,Transportation,2/21/2022 16:06
+39,Stuffs,336,Household,2/21/2022 15:40
+40,Train cbe to chn,201.8,Transportation,2/21/2022 15:38
+41,Lunch,200,Food,2/20/2022 15:24
+42,Random stuff for drinks,111,Food,2/19/2022 23:03
+43,Snacks,250,Food,2/19/2022 21:57
+44,Bus ticket,1575,Transportation,2/19/2022 21:35
+45,Took from sbi,200,Transportation,2/19/2022 20:45
+46,Ramen with gobi,380,Food,2/19/2022 20:45
+47,Metro,60,Transportation,2/19/2022 8:26
+48,To auto anna,50,Other,2/19/2022 6:27
+49,To egmore,270,Transportation,2/19/2022 6:18
+50,Kfc dinner,348,Food,2/18/2022 23:01
+51,Lunch,80,Food,2/17/2022 13:11
+52,Side dishes,165,Food,2/16/2022 16:57
+53,Kfc ,475,Food,2/16/2022 16:57
+54,Games ,100,Social Life,2/13/2022 21:54
+55,Dinner with aravind and buddies,491,Food,2/12/2022 21:20
+56,Mirror,70,Household,2/12/2022 16:04
+57,Lunch,80,Food,2/12/2022 14:48
+58,From dad,10000,Other,2/12/2022 14:47
+59,Dinner with aravind,373,Food,2/11/2022 22:41
+60,Kfc dinner,641,Food,2/10/2022 20:15
+61,From dad,1000,Other,2/8/2022 10:37
+62,Bean bag,2099,Household,2/8/2022 9:18
+63,Auto to Gobi's place,214,Transportation,2/7/2022 7:08
+64,Cakepark,125,Food,2/6/2022 18:32
+65,To kumara,150,Food,2/6/2022 17:53
+66,To chennai,1000,Transportation,2/6/2022 17:52
+67,Salary from dad,5000,Other,2/6/2022 16:41
+68,To gobi,1500,Other,2/6/2022 16:40
+69,Shawarma,80,Food,2/4/2022 20:28
+70,Good soup,50,Food,2/3/2022 14:53
+71,To gowdham,150,Other,2/3/2022 8:59
+72,Parotta,120,Food,2/2/2022 20:15
+73,From dad,500,Other,2/2/2022 20:14
+74,Vnr to apk,50,Transportation,1/31/2022 8:44
+75,To vicky,200,Other,1/31/2022 8:27
+76,To ksr station,153,Transportation,1/31/2022 8:26
+77,Dinner,155,Food,1/30/2022 19:17
+78,Cycle gap ,120,Food,1/30/2022 19:01
+79,Brunch,105,Food,1/30/2022 12:28
+80,Rapido to pg,44,Transportation,1/29/2022 21:56
+81,Sent to barath,100,Other,1/29/2022 14:44
+82,Banana,10,Food,1/28/2022 21:58
+83,Lunch with company,138,Food,1/28/2022 14:23
+84,Rapido to pg,43,Transportation,1/27/2022 21:25
+85,To vicky,300,Other,1/27/2022 13:41
+86,To vishnu,100,Other,1/27/2022 13:41
+87,Zinger box meal,279,Food,1/27/2022 13:39
+88,From vicky,300,Other,1/27/2022 13:38
+89,From dad,1500,Other,1/27/2022 13:38
+90,Snacks,115,Food,1/26/2022 17:45
+91,Vishnu 100 gowdham 25,125,Other,1/26/2022 17:45
+92,Paani poori,25,Food,1/26/2022 16:52
+93,Kfc date with myself,259,Food,1/25/2022 13:35
+94,Lemon tea,18,Food,1/25/2022 10:23
+95,Train to vnr,325,Transportation,1/25/2022 9:20
+96,Snack,40,Food,1/24/2022 20:17
+97,Lunch with company,133,Food,1/24/2022 14:08
+98,Pepsi,40,Food,1/23/2022 21:45
+99,Dinner,465,Food,1/23/2022 21:41
+100,Sent to vicky,300,Food,1/23/2022 21:29
+101,Lunch,302,Food,1/23/2022 21:29
+102,From vicky,310,Other,1/23/2022 21:29
+103,Snacks with preethi and azar,176,Food,1/23/2022 21:27
+104,Badminton,200,Social Life,1/23/2022 21:27
+105,From dad,2000,Other,1/23/2022 21:27
+106,Lunch with company,188,Food,1/21/2022 14:22
+107,Snacks,37,Food,1/21/2022 11:47
+108,From vicky,200,Other,1/21/2022 11:47
+109,Lunch + chocolate for preethi,171,Food,1/19/2022 14:27
+110,Dinner,301.15,Food,1/18/2022 20:54
+111,Snack with preethi,59,Food,1/18/2022 17:10
+112,Lunch with company,148,Food,1/18/2022 13:51
+113,To kumara,200,Other,1/18/2022 12:59
+114,From dad,1000,Other,1/18/2022 12:59
+115,Eve snack,100,Food,1/17/2022 18:31
+116,Bus to Bangalore,1365,Transportation,1/15/2022 21:17
+117,From dad,1500,Other,1/15/2022 21:16
+118,Snacks,70,Food,1/15/2022 21:16
+119,Kumara,170,Other,1/14/2022 16:58
+120,Siva + 100 cash,70,Other,1/14/2022 16:56
+121,Gundan + prasanna,340,Other,1/14/2022 16:56
+122,Dinesh and maddy + 100 cash,240,Other,1/14/2022 16:55
+123,From gowdham,340,Other,1/14/2022 16:54
+124,Lunch pongal,1530,Food,1/14/2022 16:54
+125,Dinner,66,Food,1/13/2022 20:46
+126,From dad,1000,Other,1/13/2022 19:10
+127,Rapido to pg,43,Transportation,1/13/2022 17:47
+128,Recharge by gowdham,479,Other,1/12/2022 22:44
+129,Pizza,301.75,Food,1/12/2022 13:25
+130,From kumara,200,Other,1/12/2022 13:25
+131,Lunch with not preethi,135.5,Food,1/11/2022 14:07
+132,Friday snacks with preethi gang,106,Food,1/10/2022 14:04
+133,From gowdham,260,Other,1/8/2022 13:46
+134,Lunch with gowdham,535.3,Food,1/8/2022 13:45
+135,Rent,4580,Household,1/8/2022 13:38
+136,Coffee + biscuit,15,Food,1/7/2022 13:51
+137,From barath and shakur,440,Other,1/6/2022 21:30
+138,Ketch up,20,Food,1/6/2022 20:58
+139,Dinner with roommate,877.81,Food,1/6/2022 20:13
+140,Bingo,10,Food,1/6/2022 14:22
+141,Rapido to pg,42,Transportation,1/6/2022 11:48
+142,McDonald's with company,211,Food,1/5/2022 20:23
+143,Lended money returned to vishnu,40,Other,1/5/2022 14:46
+144,Lended money returned to kumara,30,Other,1/5/2022 14:42
+145,Jan 2nd with shakur and barath,354,Food,1/5/2022 14:42
+146,To gobi 1st 1/4th,500,Other,1/5/2022 14:39
+147,To abijith and to vicky lend money returned,500,Other,1/5/2022 14:37
+148,Refund for bus ticket,60,Transportation,1/5/2022 14:35
+149,Lunch with company,388,Food,1/5/2022 14:30
+150,Arrear and reval fee,1400,Education,1/4/2022 22:11
+151,Salary,8000,Salary,1/4/2022 22:10
+152,Lunch with company,106,Food,1/4/2022 13:53
+153,To vicky,80,Other,1/4/2022 8:01
+154,Sent to preethi,107,Food,1/4/2022 7:58
+155,Dairy milk,10,Food,1/3/2022 22:15
+156,From barath,201,Other,1/3/2022 21:54
+157,From gpay,5,Other,1/3/2022 21:12
+158,From shakur,140,Other,1/3/2022 21:11
+159,Lunch unlimited nv,300,Food,1/3/2022 14:31
+160,From abi,300,Other,1/3/2022 14:30
+161,Tablet to gowdham,8,Other,1/2/2022 20:33
+162,Dinner with barath,200,Food,1/2/2022 20:32
+163,Train to vnr,725,Transportation,1/2/2022 14:16
+164,Snacks,85,Food,1/1/2022 21:46
+165,From dad,1000,Allowance,1/1/2022 21:45
+166,To barath,20,Food,12/30/2021 14:10
+167,Pg to office,43,Transportation,12/30/2021 13:56
+168,From kumara,30,Other,12/30/2021 13:36
+169,Horlicks + kolakattai,25,Food,12/30/2021 12:43
+170,Bommasandra to pg,199,Transportation,12/30/2021 12:38
+171,From Deepak,250,Other,12/30/2021 12:37
+172,Water,20,Food,12/30/2021 11:45
+173,From abi,20,Other,12/30/2021 11:45
+174,Rapido + toll,286,Transportation,12/30/2021 11:45
+175,From Deepak,250,Other,12/30/2021 11:44
+176,Coffee and thattai,14,Food,12/28/2021 13:42
+177,Lunch with barath,115,Food,12/27/2021 13:45
+178,From vicky,80,Other,12/27/2021 13:44
+179,From ganesan,40,Other,12/27/2021 12:33
+180,Coconut water with stu,50,Food,12/27/2021 12:33
+181,Dinner with barath,504,Food,12/25/2021 22:53
+182,Cab,306,Transportation,12/25/2021 20:46
+183,Books,400,Self-development,12/25/2021 19:50
+184,Corn,30,Food,12/25/2021 17:01
+185,Water,30,Food,12/25/2021 15:35
+186,Milk with bharath,40,Food,12/25/2021 13:32
+187,Beer,150,Social Life,12/24/2021 21:49
+188,Lunch with company,262,Food,12/24/2021 14:35
+189,Lemon tea with company,15,Food,12/23/2021 16:31
+190,Puffs and coffee,32,Food,12/23/2021 13:51
+191,Dinner with barath,239,Food,12/21/2021 20:53
+192,Puffs,25,Food,12/21/2021 14:02
+193,Bun,18,Food,12/21/2021 11:43
+194,Milk with bharath,80,Food,12/20/2021 19:23
+195,Taxi,80,Transportation,12/20/2021 19:22
+196,Snacks,20,Food,12/20/2021 16:55
+197,Water,20,Food,12/20/2021 15:29
+198,Lunch with barath,85,Food,12/20/2021 13:35
+199,Milk with bharath,40,Food,12/20/2021 9:46
+200,To siva,100,Other,12/19/2021 15:51
+201,To kumara,100,Other,12/18/2021 21:01
+202,To abijith,200,Other,12/18/2021 21:01
+203,To rahul,113,Food,12/18/2021 21:00
+204,From dad,1000,Allowance,12/18/2021 21:00
+205,Lended money,400,Other,12/18/2021 19:52
+206,Spiderman ,363.72,Social Life,12/18/2021 19:51
+207,Lunch,160,Food,12/18/2021 14:19
+208,Milk with bharath,70,Food,12/17/2021 18:54
+209,Lunch with company,110,Food,12/17/2021 14:45
+210,Gave to gowdham,50,Other,12/17/2021 8:35
+211,Egg,30,Food,12/16/2021 18:44
+212,Panipoori,20,Food,12/16/2021 18:35
+213,Lunch,30,Food,12/16/2021 13:38
+214,Milk with bharath,110,Food,12/16/2021 10:42
+215,Lunch,40,Food,12/14/2021 23:54
+216,Snacks,75,Food,12/14/2021 21:21
+217,Panipoori,80,Food,12/14/2021 21:03
+218,Snacks,74,Food,12/14/2021 15:18
+219,Milk with bharath,65,Food,12/14/2021 10:33
+220,Milk with bharath,25,Food,12/12/2021 21:47
+221,From dad,1000,Allowance,12/11/2021 9:22
+222,From stu,240,Other,12/11/2021 8:20
+223,Shopping,241,Food,12/10/2021 21:38
+224,Momos,195,Food,12/10/2021 20:55
+225,Snack with bharath,40,Food,12/9/2021 20:03
+226,Lunch with company,280,Food,12/9/2021 14:01
+227,Milk with bharath,25,Food,12/9/2021 9:56
+228,Breakfast with stu,110,Food,12/9/2021 8:47
+229,Lunch with stu,100,Food,12/8/2021 14:15
+230,5 star,15,Food,12/8/2021 14:15
+231,Milk,10,Food,12/8/2021 7:17
+232,Milk with bharath,25,Food,12/7/2021 9:54
+233,Horlicks,15,Food,12/7/2021 7:59
+234,Milk with bharath,25,Food,12/6/2021 21:59
+235,Shoe,500,Apparel,12/6/2021 20:07
+236,Cap,140,Apparel,12/6/2021 19:57
+237,Lunch with stu,150,Food,12/6/2021 14:08
+238,Milk with bharath,25,Food,12/5/2021 19:45
+239,Full hand and a hoodie,1800,Apparel,12/5/2021 18:41
+240,Rent,4800,Household,12/5/2021 12:23
+241,From dad,8000,Allowance,12/5/2021 12:23
+242,Dinner,324,Food,12/4/2021 21:05
+243,Snack,65,Food,12/4/2021 20:20
+244,For company,30,Other,12/4/2021 13:54
+245,Breakfast,200,Food,12/4/2021 10:13
+246,Milk with bharath,25,Food,12/3/2021 21:59
+247,Belt,130,Apparel,12/3/2021 21:59
+248,Mask,20,Apparel,12/3/2021 21:28
+249,Snack,40,Food,12/3/2021 21:28
+250,From dad,1000,Allowance,12/3/2021 21:28
+251,Ice cream,504,Food,12/2/2021 20:07
+252,Vadapaav,75,Food,12/2/2021 19:48
+253,Showergel,196,Beauty,12/1/2021 19:57
+254,Lunch with company,160,Food,12/1/2021 14:00
+255,Bharath birthday,115,Gift,11/30/2021 14:24
+256,Lunch with company,128,Food,11/30/2021 14:17
+257,Breakfast,70,Food,11/30/2021 10:11
+258,Lunch with company,40,Food,11/29/2021 20:47
+259,Dinner,50,Food,11/29/2021 20:47
+260,Panipoori,40,Food,11/29/2021 20:09
+261,Breakfast,40,Food,11/29/2021 9:29
+262,Snack,94,Food,11/28/2021 19:59
+263,Zomato,269.4,Food,11/28/2021 13:10
+264,Dinner with gowdham,120,Food,11/27/2021 23:14
+265,Dinner with gowdham,130,Food,11/27/2021 22:34
+266,Rapido,35,Transportation,11/27/2021 18:41
+267,Lunch with company,75,Food,11/27/2021 13:46
+268,From dad,2000,Allowance,11/27/2021 13:46
+269,Breakfast,30,Food,11/27/2021 9:33
+270,Beer,150,Food,11/26/2021 21:56
+271,Snack,102,Food,11/26/2021 20:57
+272,Panipoori,40,Food,11/26/2021 20:15
+273,Cashback,3,Petty cash,11/26/2021 14:14
+274,Lunch with company,150,Food,11/26/2021 14:14
+275,Breakfast,60,Food,11/26/2021 9:22
+276,Lunch with company,145,Food,11/25/2021 20:27
+277,Rapido,58,Transportation,11/25/2021 20:27
+278,Dinner,95,Food,11/25/2021 20:27
+279,Snack,15,Food,11/24/2021 19:26
+280,Dinner,70,Food,11/24/2021 19:23
+281,Panipoori,20,Food,11/24/2021 19:06
+282,Rapido,58,Transportation,11/24/2021 19:06
+283,Rapido,50,Transportation,11/23/2021 22:53
+284,Dinner,179,Food,11/23/2021 22:53
+285,Dinner,90,Food,11/22/2021 14:16
